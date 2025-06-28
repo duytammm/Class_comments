@@ -103,7 +103,7 @@ export default function Popup() {
 
     setStatus(" Đang tạo nhận xét bằng Gemini...");
 
-    const prompt = `Hãy viết một đoạn văn ngắn tầm 4 5 câu nhận xét mang hướng tích cực, dựa trên nội dung sau: "${customInput}".Viết đánh giá cho phụ huynh đọc`;
+    const prompt = `Hãy viết một đoạn văn ngắn tầm 4 5 câu nhận xét mang hướng tích cực, dựa trên nội dung sau: "${customInput}".Viết đánh giá cho phụ huynh xem`;
 
     chrome.runtime.sendMessage(
       { action: "generateComment", prompt },
