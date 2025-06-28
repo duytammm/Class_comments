@@ -1,0 +1,69 @@
+
+
+.popup-container {
+  padding: 20px;
+  width: 320px;
+  font-family: Arial;
+}
+
+.popup-select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+.popup-textarea {
+  width: 95%;
+  height: 50%;
+  max-height: 400px;
+  padding: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.popup-button {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.popup-button.lesson {
+  background-color: #f39c12;
+}
+
+.popup-button.evaluate {
+  background-color: #2e86de;
+}
+
+.popup-button.generate {
+  background-color: #27ae60;
+}
+
+.popup-lesson-preview {
+  background-color: #fff9db;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #f1c40f;
+  max-height: 200px;
+  overflow-y: auto;
+  font-style: italic;
+}
+
+.popup-comment-box {
+  background-color: #f1f2f6;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.popup-status {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #444;
+}
