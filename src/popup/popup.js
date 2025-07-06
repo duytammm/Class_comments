@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 import React, { useState, useEffect } from "react";
-import "./../popup/popup.css"
+import "./../popup/popup.css";
 
 const options = ["Yếu", "Trung bình", "Khá", "Giỏi", "Xuất sắc"];
 
@@ -97,26 +97,27 @@ export default function Popup() {
 
   const handleGenerate = () => {
     if (!customInput.trim()) {
-      setStatus(" Vui lòng nhập nội dung yêu cầu trước.");
+      setStatus("Vui lòng nhập nội dung yêu cầu trước.");
       return;
     }
 
-    setStatus(" Đang tạo nhận xét bằng Gemini...");
+    setStatus("Đang tạo nhận xét...");
 
-    const prompt = `Hãy viết một đoạn văn ngắn tầm 4 5 câu nhận xét mang hướng tích cực, dựa trên nội dung sau: "${customInput}".Viết đánh giá cho phụ huynh xem`;
+    const prompt = `Hãy viết một đoạn ngắn tầm 4-5 câu nhận xét dựa trên nội dung sau: "${customInput}". Viết đánh giá cho phụ huynh xem.`;
+    const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
 
     chrome.runtime.sendMessage(
-      { action: "generateComment", prompt },
+      { action: "generateComment", prompt, apiKey },
       (response) => {
         if (chrome.runtime.lastError) {
-          setStatus(" Lỗi: " + chrome.runtime.lastError.message);
+          setStatus("Lỗi: " + chrome.runtime.lastError.message);
           return;
         }
 
         if (response?.comment) {
-          const comment = response.comment;
+          const comment = response.comment.trim();
           setComment(comment);
-          setStatus(" Đã tạo nhận xét!");
+          setStatus("Đã tạo nhận xét!");
           chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
             chrome.scripting.executeScript({
               target: { tabId: tabs[0].id },
@@ -130,13 +131,15 @@ export default function Popup() {
                     .map((line) => `<p>${line}</p>`)
                     .join("");
                   editor.dispatchEvent(new Event("input", { bubbles: true }));
+                } else {
+                  alert("Không tìm thấy vùng nhập liệu (.ql-editor)");
                 }
               },
               args: [comment],
             });
           });
         } else {
-          setStatus(" Không tạo được nhận xét.");
+          setStatus("GPT không trả về nội dung nhận xét.");
         }
       }
     );
@@ -210,7 +213,10 @@ export default function Popup() {
         ))}
       </select>
 
-      <button onClick={handleLoadLessonFromFile} className="popup-button lesson">
+      <button
+        onClick={handleLoadLessonFromFile}
+        className="popup-button lesson"
+      >
         Lấy & Điền nội dung bài học
       </button>
 
@@ -249,8 +255,8 @@ export default function Popup() {
         className="popup-textarea"
       />
 
-      <button onClick={handleGenerate } className="popup-button generate">
-        Điền nhận xét bằng Gemini
+      <button onClick={handleGenerate} className="popup-button generate">
+        Điền nhận xét
       </button>
 
       {comment && <div className="popup-comment-box">{comment}</div>}
