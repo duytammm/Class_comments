@@ -1,10 +1,41 @@
 {
   "Scratch": {
     "Basic": {
-      "Buổi 1": ["Giới thiệu Scratch và cách kéo thả khối lệnh."],
-      "Buổi 2": "Tạo chuyển động đơn giản.",
-      "Buổi 3": "Thêm âm thanh vào dự án.",
-      "Buổi 4": "Sử dụng biến để lưu trữ dữ liệu.",
+      "Buổi 1": [
+        "Giới thiệu Scratch và cách kéo thả khối lệnh.",
+        "Tìm hiểu tổng quan khóa học Scratch Basic, các mốc thời gian quan trọng và nội quy lớp học.",
+        "Tìm hiểu về cấu trúc tuần tự trong tư duy máy tính thông qua trò chơi Rapid Router.",
+        "Tìm hiểu về vai trò của ngôn ngữ lập trình và các sản phẩm lập trình trong cuộc sống.",
+        "Làm quen với môi trường lập trình Scratch (Raise).",
+        "Tìm hiểu và thực hành khởi tạo nhân vật và phông nền.",
+        "Thực hành thiết kế căn phòng của em.",
+        "Tìm hiểu cách quản lý dự án thông qua quản lý file."
+      ],
+      "Buổi 2": [
+        "Tìm hiểu về kỷ nguyên số hoá các công việc thông dụng trong cuộc sống.",
+        "Tìm hiểu về các trang phục của nhân vật, các thẻ lệnh tương tác với trang phục và chức năng của các trang phục.",
+        "Tìm hiểu về âm thanh, cách thêm âm thanh và các thẻ lệnh tương tác với âm thanh trong Scratch.",
+        "Tìm hiểu vòng lặp với số lần biết trước và vòng lặp liên tục trong nhóm lệnh Control.",
+        "Thực hành tạo hành động của nhân vật và thêm âm thanh vào dự án.",
+        "Thực hành thiết kế thiệp chúc mừng sinh nhật và nhân vật gửi lời chúc đến người nhận."
+      ],
+      "Buổi 3": [
+        "Tìm hiểu về tập tính của loài gà và công việc chăm con của gà mái. ",
+        "Tìm hiểu về hướng của nhân vật, các hướng cơ bản và các thẻ lệnh để điều chỉnh hướng của nhân vật trong Scratch.",
+        "Tìm hiểu về câu lệnh rẽ nhánh, ứng dụng của câu lệnh rẽ nhánh trong thực tế.",
+        "Tìm hiểu về điều kiện và giá trị trả về từ điều kiện trong Scratch.",
+        "Thực hành sử dụng thẻ lệnh kiểm tra va chạm giữa hai nhân vật.",
+        "Thực hành lập trình dự án Gà mẹ tìm con."
+      ],
+      "Buổi 4": [
+        "Tìm hiểu về các hậu quả của tai nạn giao thông và các biện pháp tham gia giao thông an toàn.",
+        "Tìm hiểu về biến, ứng dụng của biến và các thẻ lệnh tương tác với biến trong Scratch.",
+        "Thực hành sử dụng biến để đếm số lần nhấn chuột.",
+        "Tìm hiểu về sự kiện nhấn phím trong Scratch.",
+        " Thực hành lập trình điều khiển nhân vật thông qua các phím điều hướng.",
+        " Ôn tập câu điều kiện, tìm hiểu về điều kiện lồng và các thẻ lệnh kết hợp điều kiện trong Scratch",
+        "Thực hành lập trình dự án Giao thông an toàn."
+      ],
       "Buổi 5": "Điều kiện IF trong trò chơi.",
       "Buổi 6": "Vòng lặp và sự kiện.",
       "Buổi 7": "Tạo trò chơi đơn giản.",
@@ -259,7 +290,7 @@
       "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
     }
   },
-   "Pre": {
+  "Pre": {
     "Basic": {
       "Buổi 1": "Giới thiệu tư duy máy tính và thuật toán.",
       "Buổi 2": "Các khái niệm về dữ liệu.",
@@ -309,7 +340,7 @@
       "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
     }
   },
-   "ARM": {
+  "ARM": {
     "Basic": {
       "Buổi 1": "Giới thiệu tư duy máy tính và thuật toán.",
       "Buổi 2": "Các khái niệm về dữ liệu.",
@@ -359,7 +390,7 @@
       "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
     }
   },
-   "Semi": {
+  "Semi": {
     "Basic": {
       "Buổi 1": "Giới thiệu tư duy máy tính và thuật toán.",
       "Buổi 2": "Các khái niệm về dữ liệu.",
