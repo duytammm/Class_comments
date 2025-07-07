@@ -103,7 +103,7 @@ export default function Popup() {
 
     setStatus("Đang tạo nhận xét...");
 
-    const prompt = `Hãy viết một đoạn ngắn tầm 4-5 câu nhận xét dựa trên nội dung sau: "${customInput}". Viết đánh giá cho phụ huynh xem.`;
+    const prompt = `Hãy viết một đoạn ngắn nhận xét dựa trên nội dung sau: "${customInput}".`;
     const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
 
     chrome.runtime.sendMessage(
