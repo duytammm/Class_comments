@@ -36,37 +36,139 @@
         " Ôn tập câu điều kiện, tìm hiểu về điều kiện lồng và các thẻ lệnh kết hợp điều kiện trong Scratch",
         "Thực hành lập trình dự án Giao thông an toàn."
       ],
-      "Buổi 5": "Điều kiện IF trong trò chơi.",
-      "Buổi 6": "Vòng lặp và sự kiện.",
-      "Buổi 7": "Tạo trò chơi đơn giản.",
-      "Buổi 8": "Tạo hiệu ứng hoạt hình.",
-      "Buổi 9": "Vẽ nhân vật bằng công cụ vẽ.",
-      "Buổi 10": "Điều khiển nhiều nhân vật.",
-      "Buổi 11": "Tính điểm trong trò chơi.",
-      "Buổi 12": "Trò chơi tránh chướng ngại vật.",
-      "Buổi 13": "Xử lý va chạm giữa các nhân vật.",
-      "Buổi 14": "Hoàn thiện dự án cá nhân."
+      "Buổi 5": [
+        "Thực hiện bài kiểm tra định kỳ lần 1 - checkpoint 1",
+        "Tìm hiểu về tầm quan trọng của hình ảnh trong dự án.",
+        "Tìm hiểu về công cụ AI tạo hình ảnh.",
+        "Thực hành viết prompt để tạo hình ảnh."
+      ],
+      "Buổi 6": [
+        "Tìm hiểu về các loài khủng long và nguyên nhân tuyệt chủng của khủng long.",
+        "Tìm hiểu về tạo bản sao, cơ chế của tạo bản sao và các thẻ lệnh để tạo, tương tác với bản sao trong Scratch.",
+        "Thực hành dùng cơ chế bản sao để lập trình tạo hiệu ứng bóng bay.",
+        "Thực hành sử dụng cơ chế tạo bản sao để tạo nhiều thiên thạch.",
+        "Thực hành tạo trò chơi \"Bảo vệ Khủng long\"."
+      ],
+      "Buổi 7": [
+        "Tìm hiểu về chiến thắng Điện Biên Phủ trên không (1972) và anh hùng Phạm Tuân.",
+        "Tìm hiểu về các hiệu ứng trong Scratch.",
+        "Thực hành tạo hiệu ứng ẩn/hiện nhân vật bằng các hiệu ứng trong Scratch.",
+        "Thực hành lập trình dự án \"Đại chiến không trung\"."
+      ],
+      "Buổi 8": [
+        "Tìm hiểu về vai trò của màn hình chờ, màn hình bắt đầu và màn hình kết thúc trò chơi.",
+        "Tìm hiểu về phát tin - nhận tin và ứng dụng của phát tin - nhận tin trong Scratch.",
+        "Thực hành tạo giao diện bắt đầu và giao diện kết thúc cho trò chơi.",
+        "Thực hành lập trình tăng độ khó cho trò chơi.",
+        "Thực hành lập trình hoàn thiện dự án \"Đại chiến không trung\"."
+      ],
+      "Buổi 9": [
+        "Thực hiện bài kiểm tra định lần 2 - checkpoint 2.",
+        "Tìm hiểu tiêu chí đánh giá sản phẩm cuối khoá.",
+        "Thực hành tìm kiếm ý tưởng xây dựng dự án cá nhân."
+      ],
+      "Buổi 10": ["Dự án của em (Phần 1)", "Thực hiện lập trình cho dự án"],
+      "Buổi 11": ["Dự án của em (Phần 2)", "Thực hiện lập trình cho dự án"],
+      "Buổi 12": ["Dự án của em (Phần 3)", "Thực hiện lập trình cho dự án"],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm",
+        "Hoàn thiện và đóng gói sản phẩm",
+        "Thiết kế bài trình chiếu hỗ trợ thuyết trình"
+      ],
+      "Buổi 14": ["Thuyết trình cuối khóa", "Thực hiện thuyết trình sản phẩm"]
     },
     "Advance": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Giới thiệu tổng quan khóa học Scratch Advanced, các mốc thời gian quan trọng và nhắc lại nội quy của lớp học.",
+        "Ôn tập các khái niệm cơ bản về Scratch Basic.",
+        "Tìm hiểu về ứng dụng của AI trong các mặt của cuộc sống.",
+        "Tìm hiểu về nhà thông minh và xu hướng của tương lai.",
+        "Lập trình xả y dựng các chức năng cho dự án \"Nhà thông minh\"."
+      ],
+      "Buổi 2": [
+        "Tìm hiểu về sự công việc của người nông dân khi trồng và thu hoạch Bí ngô.",
+        "Thực hành phân tích dự án \"Hành trình bí ngô\".",
+        "Thực hành lập trình tạo giao diện cho trò chơi.",
+        "Thực hành lập trình điều khiển nhân vật bằng các phím WASD và xử lý hướng đi chéo cho nhân vật chính.",
+        "Thực hành lập trình cho các nhân vật phụ cho trò chơi."
+      ],
+      "Buổi 3": [
+        "Tìm hiểu về hiệu ứng hover và công dụng của hiệu ứng hover.",
+        "Thực hành lập trình tạo hiệu ứng Hover cho các nút tại giao diện Menu.",
+        "Thực hành tạo cơ chế điểm số cho dự án và sự kiện kết thúc trò chơi.",
+        "Thực hành tạo các hiệu ứng di chuyển cho các nhân vật.",
+        "Ôn tập và thực hiện tạo hiệu ứng ẩn - hiện cho các nhân vật."
+      ],
+      "Buổi 4": [
+        "Tìm hiểu về danh sách (list) và cấu tạo của danh sách.",
+        "Tìm hiểu về các thẻ lệnh tương tác với danh sách.",
+        "Thực hành lập trình thêm - xóa các phần tử trong danh sách.",
+        "Thực hành tạo danh sách điểm số cho dự án.",
+        "Thực hành xử lý âm thanh nền và âm thanh va chạm cho dự án."
+      ],
+      "Buổi 5": [
+        "Thực hiện bài kiểm tra định kỳ lần 1 - Checkpoint 1.",
+        "Tìm hiểu về Trí tuệ nhân tạo (AI).",
+        "Tìm hiểu về Teachable Machine và cách để training model AI.",
+        "Thực hành training model AI với dataset được lấy từ webcam."
+      ],
+      "Buổi 6": [
+        "Tìm hiểu về câu chuyện \"Cá chép vượt Vũ Môn\".",
+        "Tìm hiểu về dự án \"Chinh phục Vũ Môn\".",
+        "Thực hiện training model AI điều khiển nhân vật cá chép.",
+        "Thực hành sử dụng các thông số trả về từ model AI để lập trình điều khiển nhân vật cá chép."
+      ],
+      "Buổi 7": [
+        "Tìm hiểu về My Blocks và chức năng của My Blocks.",
+        "Lập trình tạo giao diện cơ bản cho dự án \"Chinh phục Vũ Môn\".",
+        "Lập trình cho chướng ngại vật và phông nền di chuyển.",
+        "Lập trình xử lý tốc độ cho chướng ngại vật và phông nền.",
+        "Lập trình thiết lập giao diện Setting với tính năng thay đổi giá trị \"speed\"."
+      ],
+      "Buổi 8": [
+        "Tối ưu dạng hiển thị của biến thông qua nhân vật.",
+        "Lập trình tạo thanh máu và tạo hiệu ứng cho thanh máu bằng các trang phục của nhân vật.",
+        "Lập trình lưu điểm số cho dự án.",
+        "Hoàn thiện và đóng gói dự án \"Chinh phục Vũ Môn\"."
+      ],
+      "Buổi 9": [
+        "Thực hiện bài kiểm tra định kỳ lần 2 - checkpoint 2.",
+        "Tìm hiểu tiêu chí đánh giá sản phẩm cuối khoá.",
+        "Thực hành tìm kiếm ý tưởng xây dựng dự án cá nhân."
+      ],
+      "Buổi 10": ["Dự án của em (Phần 1)", "Thực hiện lập trình cho dự án"],
+      "Buổi 11": ["Dự án của em (Phần 2)", "Thực hiện lập trình cho dự án"],
+      "Buổi 12": ["Dự án của em (Phần 3)", "Thực hiện lập trình cho dự án"],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm",
+        "Hoàn thiện và đóng gói sản phẩm",
+        "Thiết kế bài trình chiếu hỗ trợ thuyết trình"
+      ],
+      "Buổi 14": ["Thuyết trình cuối khóa", "Thực hiện thuyết trình sản phẩm"]
     },
     "Internship": {
-      "Buổi 1": "Phân tích yêu cầu dự án thực tế.",
-      "Buổi 2": "Lập kế hoạch và chia công việc.",
-      "Buổi 3": "Xây dựng khung giao diện chính.",
+      "Buổi 1": [
+        "Giới thiệu tổng quan khóa học Scratch Intensive, các mốc thời gian quan trọng và nhắc lại nội quy của lớp học.",
+        "Ôn tập các khái niệm cơ bản về Scratch Advanced.",
+        "Tìm hiểu về công cụ ChatGPT để hỗ trợ ý tưởng và hướng dẫn lập trình Scratch.",
+        "Thực hành sử dụng công cụ ChatGPT để hướng dẫn lập trình với Scratch.",
+        "Thực hành sử dụng công cụ ChatGPT để phát triển ý tưởng cho dự án cuối khoá.",
+        "Thực hành xác minh thông tin trả về từ AI và đánh giá các thông tin mà AI cung cấp."
+      ],
+      "Buổi 2": [
+        "Tìm hiểu về quy trình tạo ra một sản phẩm Scratch.",
+        "Vận dụng các công cụ AI để hỗ trợ tìm kiếm ý tưởng cho dự án cá nhân.",
+        "Tìm hiểu về bảng tiêu chí đánh giá dự án cá nhân.",
+        "Thực hiện tìm kiếm ý tưởng cho sản phẩm cuối khoá.",
+        "Tìm hiểu các công cụ hỗ trợ quản lý dự án và xây dựng timeline cho dự án."
+      ],
+      "Buổi 3": [
+        "Thực hiện lên kế hoạch, liệt kê các tài nguyên cần dùng cho dự án.",
+        "Tìm hiểu về các nguồn cung cấp các tài nguyên cho dự án.",
+        "Tìm hiểu về cách viết prompt hiệu quả để model AI có thể generate hình ảnh tốt hơn.",
+        "Thực hiện tìm kiếm, tạo ra các tài nguyên cho dự án cá nhân.",
+        "Lập trình các tính năng chính cho dự án."
+      ],
       "Buổi 4": [
         "Tìm hiểu vai trò của sơ đồ giao diện dự án",
         "Thực hiện phác thảo sơ đồ giao diện với các thành phần cơ bản như Guide, Màn hình chơi,...",
@@ -74,188 +176,777 @@
         "Tìm hiểu về hiệu ứng nhấn chuột được thao tác trên giao diện bắt đầu",
         "Thực hiện lập trình hiệu ứng nhấn chuột cho giao diện"
       ],
-      "Buổi 5": "Xây dựng cơ chế chơi chính.",
-      "Buổi 6": "Làm việc nhóm qua GitHub Classroom.",
-      "Buổi 7": "Tích hợp nhiều module trò chơi.",
-      "Buổi 8": "Kiểm thử và gỡ lỗi phần đầu.",
-      "Buổi 9": "Xây dựng hệ thống phần thưởng.",
-      "Buổi 10": "Giao tiếp và tương tác với người dùng.",
-      "Buổi 11": "Tối ưu hóa và hoàn thiện gameplay.",
-      "Buổi 12": "Kiểm thử tổng thể.",
-      "Buổi 13": "Viết tài liệu và slide thuyết trình.",
-      "Buổi 14": "Bảo vệ dự án với hội đồng."
+      "Buổi 5": [
+        "Báo cáo tiến độ - Lần 1",
+        "Đánh giá tiến độ và chất lượng của dự án.",
+        "Thẩm định độ khả thi của dự án."
+      ],
+      "Buổi 6": [
+        "Tìm hiểu về extension Text to Speech.",
+        "Ứng dụng Text to Speech để tạo hiệu ứng âm thanh bắt đầu - kết thúc, phần hướng dẫn cho dự án, storyline của dự án, ...",
+        "Lập trình các tính năng chính của dự án."
+      ],
+      "Buổi 7": [
+        "Ôn tập về cơ chế phát tin – nhận tin.",
+        "Ôn tập về cơ chế tạo bản sao.",
+        "Ôn tập các hiệu ứng ẩn nhân vật.",
+        "Tìm hiểu về các cách xử lý hiệu ứng để ẩn nhân vật.",
+        "Thực hiện lập trình tạo hiệu ứng phá huỷ nhân vật."
+      ],
+      "Buổi 8": [
+        "Tìm hiểu về thông báo bắt đầu trò chơi và kết thúc trò chơi.",
+        "Thực hành lập trình tạo thông báo bắt đầu và kết thúc trò chơi.",
+        "Lập trình các tính năng chính của dự án."
+      ],
+      "Buổi 9": [
+        "Báo cáo tiến độ - Lần 2",
+        "Đánh giá tiến độ và chất lượng của dự án.",
+        "Thẩm định độ khả thi của dự án."
+      ],
+      "Buổi 10": ["Dự án của em (Phần 1)", "Thực hiện lập trình cho dự án"],
+      "Buổi 11": ["Dự án của em (Phần 2)", "Thực hiện lập trình cho dự án"],
+      "Buổi 12": ["Dự án của em (Phần 3)", "Thực hiện lập trình cho dự án"],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm",
+        "Hoàn thiện và đóng gói sản phẩm",
+        "Thiết kế bài trình chiếu hỗ trợ thuyết trình"
+      ],
+      "Buổi 14": ["Thuyết trình cuối khóa", "Thực hiện thuyết trình sản phẩm"]
     }
   },
 
   "Game Maker": {
     "Basic": {
-      "Buổi 1": "Giới thiệu giao diện Game Maker.",
-      "Buổi 2": "Tạo vật thể và nền.",
-      "Buổi 3": "Chuyển động nhân vật.",
-      "Buổi 4": "Xử lý va chạm cơ bản.",
-      "Buổi 5": "Tạo vật thể có tương tác.",
-      "Buổi 6": "Thêm điểm và thời gian.",
-      "Buổi 7": "Tạo menu game.",
-      "Buổi 8": "Xây dựng màn chơi đơn giản.",
-      "Buổi 9": "Hiệu ứng ánh sáng cơ bản.",
-      "Buổi 10": "Tạo game bắn súng 2D.",
-      "Buổi 11": "Gán âm thanh cho sự kiện.",
-      "Buổi 12": "Tạo game phiêu lưu đơn giản.",
-      "Buổi 13": "Tối ưu hóa hiệu suất game.",
-      "Buổi 14": "Tổng hợp kiến thức & hoàn thiện sản phẩm."
+      "Buổi 1": [
+        "Tìm hiểu về công cụ sáng tạo trò chơi Gamemaker",
+        "Các khái niệm cơ bản trong gamemaker: sprite, object, event, action, room, background",
+        "Thực hành trải nghiệm lập trình trò chơi King Fish"
+      ],
+      "Buổi 2": [
+        "Tìm hiểu khái niệm Frame per second (fps), tọa độ oxy trong gamemaker",
+        "Giới thiệu Alarm, comment trên câu lệnh",
+        "Thực hành các khái niệm trên trong game King Fish"
+      ],
+      "Buổi 3": [
+        "Tạo path và đặt alarm để sinh ra đàn cá liên tục",
+        "Tạo các phòng chơi và chuyển giữa các phòng"
+      ],
+      "Buổi 4": [
+        "Khái niệm biến số, cấu trúc điều kiện if else",
+        "Áp dụng biến, if else lập trình tăng level cho nhân vật",
+        "Lập trình âm thanh cho game"
+      ],
+      "Buổi 5": [
+        "Kiểm tra checkpoint",
+        "Tìm hiểu cách sử dụng Copilot để tạo hình ảnh",
+        "Tìm hiểu đôi chút về ngành công nghiệp game"
+      ],
+      "Buổi 6": [
+        "Ôn tập lập trình di chuyển",
+        "Sử dụng tọa độ hướng để thay đổi hình ảnh nhân vật",
+        "Sử dụng timeline quyết định cách di chuyển của nhân vật phụ"
+      ],
+      "Buổi 7": [
+        "Thêm các chức năng cho trò chơi với alarm, variable",
+        "Thêm kẻ địch và ôn tập path",
+        "Thêm các màn chơi cần thiết"
+      ],
+      "Buổi 8": [
+        "Thêm các màn chơi",
+        "Thêm trí tuệ kẻ thù với timeline",
+        "Thêm âm thanh trò chơi"
+      ],
+      "Buổi 9": [
+        "Overview về buổi demo cuối khóa",
+        "Hướng dẫn lên ý tưởng cuối khóa",
+        "Phân tích, đánh giá từng sản phẩm"
+      ],
+      "Buổi 10": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa",
+        "Thiết lập tài nguyên cho sản phẩm",
+        "Lập trình di chuyển, va chạm"
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 13": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Hoàn thiện sản phẩm cuối khóa.",
+        "Chuẩn bị bản trình chiếu cho buổi thuyết trình."
+      ],
+      "Buổi 14": ["Trình bày sản phẩm cuối khóa.", "Hỏi đáp về sản phẩm."]
     },
     "Advance": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Thực hành lập trình mã lệnh cho hiệu ứng Parallax",
+        "Làm quen với horizontal speed, vertical speed",
+        "Tìm hiểu về solid object"
+      ],
+      "Buổi 2": [
+        "Giới thiệu ngôn ngữ GML",
+        "Giới thiệu biến số, biến môi trường, biến tự tạo",
+        "Ôn tập biến môi trường Gravity, horizontal speed, vertical speed"
+      ],
+      "Buổi 3": [
+        "Sự quan trọng của vị trí gốc",
+        "Làm quen với các hàm GML (instance_create, instance_destroy)",
+        "Từ khóa other trong GML"
+      ],
+      "Buổi 4": [
+        "Alarm trong GML",
+        "Giới thiệu lập trình kế thừa",
+        "Giới thiệu đối tượng global",
+        "Giới thiệu các hàm và cách sử dụng (room_goto, audio_play_sound)"
+      ],
+      "Buổi 5": [
+        "Kiểm tra checkpoint",
+        "Tầm quan trọng của cốt truyện trong việc làm game",
+        "Tìm hiểu cách sử dụng các công cụ AI vào việc xây dựng cốt truyện game"
+      ],
+      "Buổi 6": [
+        "Tileset trong gamemaker",
+        "Lập trình di chuyển trong sự kiện step với code GML",
+        "Lập trình va chạm với code GML",
+        "Các hàm trong bài: layer_tilemap_get_id(), keyboard_check(), ord(), place_meeting()"
+      ],
+      "Buổi 7": [
+        "Camera và viewport",
+        "Vận dụng lập trình kế thừa tối giản hóa lập trình",
+        "Lập trình tăng điểm số và thời gian"
+      ],
+      "Buổi 8": [
+        "Khái niệm và cách sử dụng mảng",
+        "Thứ tự lấy giá trị của mảng (index)",
+        "Ôn tập lập trình kế thừa nút bấm"
+      ],
+      "Buổi 9": [
+        "Overview về buổi demo cuối khóa.",
+        "Hướng dẫn lên ý tưởng cuối khóa.",
+        "Phân tích, đánh giá từng sản phẩm."
+      ],
+      "Buổi 10": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết lập tài nguyên cho sản phẩm.",
+        "Lập trình di chuyển, va chạm."
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 13": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Hoàn thiện sản phẩm cuối khóa.",
+        "Chuẩn bị bản trình chiếu cho buổi thuyết trình."
+      ],
+      "Buổi 14": ["Trình bày sản phẩm cuối khóa.", "Hỏi đáp về sản phẩm."]
     },
     "Internship": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Khái niệm, cách sử dụng vòng lặp while",
+        "Lập trình di chuyển với hspeed, vspeed",
+        "Hàm và tự tạo hàm",
+        "Khái niệm script, tạo hàm trong script"
+      ],
+      "Buổi 2": [
+        "Tìm hiểu các cách xử lý va chạm",
+        "Sử dụng vòng lặp while, hàm sign để xử lý va chạm chuẩn",
+        "Ôn tập sử dụng script và hàm để tóm gọn đoạn code",
+        "Tìm hình ảnh, lập trình di chuyển cho nhân vật chính trong sản phẩm cuối khóa"
+      ],
+      "Buổi 3": [
+        "Chuẩn bị tài nguyên, tìm hiểu từ khóa with trong lập trình",
+        "Sử dụng if quản lý trạng thái nhân vật",
+        "Cấu trúc điều kiện switch case, sử dụng switch case quản lý trạng thái nhân vật",
+        "Lập trình hình ảnh cho nhân vật",
+        "Học viên tiếp tục dự án cá nhân, lập trình trạng thái thua cho nhân vật chính"
+      ],
+      "Buổi 4": [
+        "Khái niệm Finite State Machine",
+        "Áp dụng FSM vào lập trình nhiều trạng thái",
+        "Tiếp tục sản phẩm demo với FSM"
+      ],
+      "Buổi 5": [
+        "Hướng dẫn đưa game lên gxgame",
+        "Kiểm tra checkpoint định kỳ"
+      ],
+      "Buổi 6": [
+        "Ôn tập lập trình va chạm cho đối tượng",
+        "Ôn tập lập trình FSM",
+        "Ý nghĩa việc đặt hình ảnh trước khi chuyển trạng thái (image_index - image_number)"
+      ],
+      "Buổi 7": [
+        "Tìm hiểu cơ chế kế thừa trong lập trình trạng thái FSM",
+        "Vận dụng tính kế thừa vào lập trình kẻ thù số 2"
+      ],
+      "Buổi 8": [
+        "Hướng dẫn lập trình camera lướt với code",
+        "Hướng dẫn đưa game lên gxgame"
+      ],
+      "Buổi 9": [
+        "Đưa game lên gxgame",
+        "Đánh giá chéo sản phẩm của các bạn trong lớp",
+        "Tiếp nhận ý kiến để hoàn thiện sản phẩm tốt hơn",
+        "Bắt đầu slide thuyết trình"
+      ],
+      "Buổi 10": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết lập tài nguyên cho sản phẩm.",
+        "Lập trình di chuyển, va chạm."
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thiết kế mục tiêu màn chơi.",
+        "Lập trình va chạm, tính điểm.",
+        "Lập trình âm thanh, hiệu ứng của trò chơi."
+      ],
+      "Buổi 13": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Hoàn thiện sản phẩm cuối khóa.",
+        "Chuẩn bị bản trình chiếu cho buổi thuyết trình."
+      ],
+      "Buổi 14": ["Trình bày sản phẩm cuối khóa.", "Hỏi đáp về sản phẩm."]
     }
   },
 
   "App": {
     "Basic": {
-      "Buổi 1": "Giới thiệu App Inventor và kéo thả khối.",
-      "Buổi 2": "Thiết kế giao diện app cơ bản.",
-      "Buổi 3": "Sử dụng biến và điều kiện.",
-      "Buổi 4": "Tạo ứng dụng tính toán đơn giản.",
-      "Buổi 5": "Thêm ảnh và âm thanh vào app.",
-      "Buổi 6": "Ứng dụng đồng hồ và báo thức.",
-      "Buổi 7": "Tạo app đố vui.",
-      "Buổi 8": "Gửi và nhận dữ liệu.",
-      "Buổi 9": "Tạo danh sách và lặp.",
-      "Buổi 10": "Thiết kế app tra cứu.",
-      "Buổi 11": "Tạo form nhập liệu và lưu trữ.",
-      "Buổi 12": "App vẽ đơn giản.",
-      "Buổi 13": "App cảm biến chuyển động.",
-      "Buổi 14": "Hoàn thiện và chia sẻ app."
+      "Buổi 1": [
+        "Ngôn ngữ máy là gì?",
+        "Ngôn ngữ lập trình bậc cao là gì?",
+        "Giới thiệu và cài đặt môi trường lập trình Python.",
+        "Một số câu lệnh Python đầu tiên."
+      ],
+      "Buổi 2": [
+        "Tìm hiểu biến",
+        "Các từ khoá Python cơ bản.",
+        "Quy tắc đặt tên biến trong Python.",
+        "Các kiểu dữ liệu trong Python.",
+        "Ép kiểu dữ liệu."
+      ],
+      "Buổi 3": [
+        "Giới thiệu về toán tử.",
+        "Toán tử số học.",
+        "Toán tử quan hệ.",
+        "Toán tử logic.",
+        "Biểu thức logic."
+      ],
+      "Buổi 4": [
+        "Biểu thức điều kiện.",
+        "Câu điều kiện if - elif - else.",
+        "Giới thiệu về thuật toán.",
+        "Vẽ sơ đồ khối."
+      ],
+      "Buổi 5": [
+        "Ôn tập lại kiến thức.",
+        "Kiểm tra kiến thức về:",
+        "Nhập xuất dữ liệu.",
+        "Xử lý kiểu dữ liệu.",
+        "Kết hợp toán tử để tạo biểu thức điều kiện.",
+        "Thực hành xây dựng thuật toán để giải quyết vấn đề.",
+        "Thực hành xây dựng chương trình dựa trên sơ đồ khối."
+      ],
+      "Buổi 6": [
+        "Vòng lặp hữu hạn.",
+        "Vòng lặp for với lệnh range().",
+        "Vòng lặp for lồng nhau.",
+        "Thực hành xây dựng thuật toán và vẽ sơ đồ khối với vòng lặp hữu hạn."
+      ],
+      "Buổi 7": [
+        "Tính chất vòng lặp vô hạn.",
+        "Vòng lặp while.",
+        "Vòng lặp while lồng nhau.",
+        "Thực hành xây dựng thuật toán và vẽ sơ đồ khối với vòng lặp vô hạn."
+      ],
+      "Buổi 8": ["Vận dụng các kiến thức đã học để giải quyết vấn đề."],
+      "Buổi 9": ["Kiểm tra.", "Định nghĩa danh sách.", "Khởi tạo danh sách."],
+      "Buổi 10": [
+        "Duyệt phần tử trong danh sách.",
+        "Các hàm để thao tác với danh sách.",
+        "Thực hành thêm, xóa, sửa các phần tử trong danh sách."
+      ],
+      "Buổi 11": [
+        "Xâu ký tự.",
+        "Duyệt xâu.",
+        "Xâu con và cắt chuỗi xâu.",
+        "Một số lệnh làm việc với xâu ký tự."
+      ],
+      "Buổi 12": [
+        "Định nghĩa hàm.",
+        "Thiết lập hàm không có giá trị trả về.",
+        "Truyền tham số vào hàm và phạm vi của tham số."
+      ],
+      "Buổi 13": [
+        "Thiết lập hàm có giá trị trả về.",
+        "Một số hàm thiết kế sẵn trong Python."
+      ],
+      "Buổi 14": ["Ôn tập tổng hợp kiến thức.", "Kiểm tra cuối khoá."]
     },
     "Advance": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": ["Ôn tập kiến thức Python."],
+      "Buổi 2": [
+        "Tìm hiểu lập trình hướng đối tượng là gì?",
+        "Giới thiệu về đối tượng - biến có giá trị phức hợp.",
+        "Giới thiệu về lớp - khuôn tạo ra đối tượng.",
+        "Hướng dẫn khởi tạo lớp và đối tượng."
+      ],
+      "Buổi 3": [
+        "Tìm hiểu về phương thức trong lớp.",
+        "Xây dựng phương thức và từ khóa self.",
+        "Giới thiệu hàm __init__().",
+        "Kế thừa và các tính chất của kế thừa."
+      ],
+      "Buổi 4": [
+        "Ôn tập kiến thức Lớp và Đối tượng.",
+        "Giới thiệu và cài đặt thư viện PyQt.",
+        "Giới thiệu và cài đặt công cụ Qt Designer."
+      ],
+      "Buổi 5": [
+        "Kiểm tra kiến thức Lớp và Đối tượng.",
+        "Giới thiệu các thành phần widgets cơ bản.",
+        "Tìm hiểu phương thức và thuộc tính của widgets."
+      ],
+      "Buổi 6": [
+        "Kết nối file giao diện với chương trình Python.",
+        "Tìm hiểu tuỳ chỉnh kiểu dáng và giao diện trong Qt Designer.",
+        "Thực hành xây dựng giao diện sản phẩm số với trang đăng nhập và đăng kí."
+      ],
+      "Buổi 7": [
+        "Lập trình thao tác sự kiện cho các thành phần của PyQt.",
+        "Xử lý sự kiện trên trang đăng nhập.",
+        "Phân tích xử lý những sự kiện có thể xảy trên các thành phần của trang giao diện.",
+        "Tìm hiểu cửa sổ thông báo."
+      ],
+      "Buổi 8": [
+        "Tìm hiểu khái niệm về bố cục trình bày trang giao diện thông qua trải nghiệm sản phẩm thực tế.",
+        "Khám phá các kiểu bố cục trang thông dụng được hỗ trợ bởi PyQt6.",
+        "Phân tích và áp dụng các kiểu bố cục đã học vào thiết kế sản phẩm trang giao diện bằng QT Designer và lập trình PyQt."
+      ],
+      "Buổi 9": [
+        "Kiểm tra các bước thao tác trên công cụ thiết kế giao diện và các loại bố cục thông dụng.",
+        "Kiểm tra khởi tạo thuộc tính và phương thức của các thành phần Widget.",
+        "Kiểm tra xử lý thao tác các sự kiện tương tác giữa thành phần Widget và cửa sổ hội thoại.",
+        "Giới thiệu công cụ AI tạo giao diện từ mô tả Uizard."
+      ],
+      "Buổi 10": [
+        "Tổng quan về buổi demo sản phẩm.",
+        "Hướng dẫn học sinh lên ý tưởng cho sản phẩm cuối khóa.",
+        "Sử dụng công cụ AI tạo giao diện từ mô tả Uizard.",
+        "Phân tích, đánh giá từng ý tưởng sản phẩm."
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Thực hành xây dựng phần mềm."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Thực hành xây dựng phần mềm."
+      ],
+      "Buổi 13": ["Thực hành xây dựng phần mềm.", "Tạo bản trình chiếu."],
+      "Buổi 14": ["Trình bày sản phẩm cuối khóa."]
     },
     "Internship": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Giới thiệu sản phẩm đầu ra của level Intensive",
+        "Các khái niệm về AI",
+        "Ảnh hưởng của AI trong đời sống và xã hội",
+        "AI được huấn luyện như thế nào: Làm quen với Mạng Neuron"
+      ],
+      "Buổi 2": ["Ôn tập kiến thức Lớp - Đối tượng.", "Ôn tập thư viện PyQt."],
+      "Buổi 3": [
+        "Ôn tập về danh sách",
+        "Danh sách đối tượng trong Python.",
+        "Duyệt và xử lý phần tử trong danh sách.",
+        "Áp dụng xây dựng danh sách đối tượng cho dự án cá nhân"
+      ],
+      "Buổi 4": [
+        "Ôn tập kiến thức hàm.",
+        "Xây dựng chương trình quản lý danh sách đối tượng.",
+        "Áp dụng quản lý danh sách đối tượng cho dự án cá nhân."
+      ],
+      "Buổi 5": [
+        "Kiểm tra kiến thức về quản lý danh sách đối tượng",
+        "Kiến thức xây dựng sơ đồ đối tượng.",
+        "Các thao tác khởi tạo, duyệt, thêm và xóa trên danh sách đối tượng.",
+        "Khái niệm dữ liệu và vai trò trong ứng dụng.",
+        "Tìm hiểu về dữ liệu JSON."
+      ],
+      "Buổi 6": [
+        "Tìm hiểu đọc ghi file dữ liệu.",
+        "Sử dụng JSON trong chương trình quản lý.",
+        "Áp dụng quản lý dữ liệu cho dự án cá nhân."
+      ],
+      "Buổi 7": [
+        "Ôn tập lại widget trong công cụ xây dựng giao diện.",
+        "Tìm hiểu widget dành cho danh sách.",
+        "Các thao tác với widget cho danh sách.",
+        "Áp dụng xây dựng giao diện quản lý cho dự án cá nhân."
+      ],
+      "Buổi 8": [
+        "Ôn tập về sự kiện.",
+        "Tìm hiểu cách sự kiện ảnh hưởng đến dữ liệu lưu trữ trong JSON.",
+        "Áp dụng xử lý sự kiện và tương tác với giao diện cho dự án cá nhân.",
+        "Kiểm tra tiến độ dự án cá nhân."
+      ],
+      "Buổi 9": [
+        "Kiểm tra kiến thức về đọc ghi file JSON",
+        "Kiểm tra kiến thức về xây dựng giao diện trong chương trình quản lý.",
+        "Kiểm tra kiến thức về xử lý sự kiện trong chương trình quản lý."
+      ],
+      "Buổi 10": [
+        "Text-to-Speech",
+        "Sử dụng thư viện để thêm các tính năng AI vào cho phần mềm",
+        "Hướng dẫn triển khai phần mềm trong môi trường thực tế"
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Thực hành: Hoàn chỉnh giao diện ứng dụng."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Thực hành: Hoàn chỉnh tính năng ứng dụng."
+      ],
+      "Buổi 13": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Thực hành: Kiểm thử và sửa lỗi – Đóng gói ứng dụng.",
+        "Tạo bản trình chiếu."
+      ],
+      "Buổi 14": [
+        "Thuyết trình quá trình làm việc và trình bày kết quả.",
+        "Trả lời câu hỏi và tương tác với khán giả."
+      ]
     }
   },
 
   "Web": {
     "Basic": {
-      "Buổi 1": "Giới thiệu HTML, CSS.",
-      "Buổi 2": "Tạo trang web đầu tiên.",
-      "Buổi 3": "Sử dụng thẻ văn bản và hình ảnh.",
-      "Buổi 4": "Tạo bảng và danh sách.",
-      "Buổi 5": "Sử dụng CSS để trang trí.",
-      "Buổi 6": "Làm layout đơn giản bằng flexbox.",
-      "Buổi 7": "Tạo form liên hệ.",
-      "Buổi 8": "Tạo menu điều hướng.",
-      "Buổi 9": "Nhúng video và âm thanh.",
-      "Buổi 10": "Giới thiệu JavaScript cơ bản.",
-      "Buổi 11": "Tạo hiệu ứng tương tác JS.",
-      "Buổi 12": "Tạo trang portfolio.",
-      "Buổi 13": "Responsive design.",
-      "Buổi 14": "Xuất bản website lên Internet."
+      "Buổi 1": [
+        "Tìm hiểu về các tiêu chuẩn, khái niệm website: W3C, URL và HTTPS",
+        "Giới thiệu về HTML5 và cú pháp, các dạng thẻ",
+        "Làm quen với IDE Visual Studio Code",
+        "Tạo trang web hiển thị nội dung đơn giản"
+      ],
+      "Buổi 2": [
+        "Tìm hiểu về thẻ danh sách, thẻ đường dẫn và hình ảnh",
+        "Căn chỉnh Thụt lề & Khái niệm thẻ lồng nhau",
+        "Khái niệm website, webpage và mối quan hệ",
+        "Thực hành xây dựng Project Portfolio Website"
+      ],
+      "Buổi 3": [
+        "Giới thiệu về CSS và các thuộc tính cơ bản",
+        "Tìm hiểu về CSS Selectors để chọn phần tử HTML cụ thể",
+        "Sử dụng Inspecting CSS tùy chỉnh giao diện tại trình duyệt",
+        "Tìm hiểu về CSS Box Model",
+        "Thực hành xây dựng dự án MindX Page"
+      ],
+      "Buổi 4": [
+        "Độ ưu tiên và tính kế thừa trong CSS",
+        "Giới thiệu về CSS Positioning giúp định vị các phần tử trên trang web",
+        "Thực hành dự án The Flag"
+      ],
+      "Buổi 5": [
+        "CSS display",
+        "Giới thiệu Responsive website",
+        "Cú pháp Media Queries",
+        "Flexbox và các thuộc tính đi kèm",
+        "Thực hành dự án Pricing Table",
+        "Kiểm tra checkpoint 1"
+      ],
+      "Buổi 6": [
+        "Tìm hiểu khái niệm framework",
+        "Giới thiệu về framework CSS Bootstrap và cách sử dụng",
+        "Giới thiệu về khái niệm Web Design & Color Theory",
+        "Giới thiệu dự án Dog Social (p1)"
+      ],
+      "Buổi 7": [
+        "Giới thiệu về Typography và cách chọn Font chữ",
+        "Quy tắc phân cấp trong bố cục: Kích thước, vị trí & màu sắc",
+        "Quản lý \"ATTENTION\" với thiết kế giao diện người dùng (UI) hiệu quả",
+        "Thực hành xây dựng website: Dog Social (p2)"
+      ],
+      "Buổi 8": [
+        "Giới thiệu về thẻ Form và các thuộc tính, phương thức đi kèm",
+        "Các dạng điều khiển nhập liệu với thẻ input",
+        "Tạo một mẫu đăng nhập đơn giản",
+        "Tạo biểu mẫu thanh toán trên Marketplace"
+      ],
+      "Buổi 9": [
+        "Sơ lược về AI và ứng dụng trong lập trình",
+        "Giới thiệu các AI phổ thông hỗ trợ web developer",
+        "Lên ý tưởng dự án website cuối khóa",
+        "Thực hành làm bài checkpoint 2"
+      ],
+      "Buổi 10": [
+        "Kiểm tra tiến độ dự án cá nhân",
+        "Xây dựng dự án cuối khóa theo timeline đặt ra"
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thực hành xây dựng giao diện phần mềm."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thực hành xây dựng giao diện phần mềm."
+      ],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm web và deploy cơ bản",
+        "Hoàn thiện và kiểm duyệt slide",
+        "Thuyết trình thử"
+      ],
+      "Buổi 14": [
+        "Thuyết trình quá trình làm việc và trình bày kết quả",
+        "Trả lời câu hỏi và tương tác với khán giả & giám khảo"
+      ]
     },
     "Advance": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Ôn tập kiến thức.",
+        "Giới thiệu về display Grid.",
+        "Tìm hiểu về Grid Sizing và Grid Placement.",
+        "Thực hành xây dựng dự án Mondrian-Style Painting."
+      ],
+      "Buổi 2": [
+        "Tìm hiểu về Javascript: Nguồn gốc, công dụng.",
+        "Javascript Variables và quy tắc đặt tên.",
+        "Javascript Data Types.",
+        "Thử thách thay đổi cách viết hoa trong văn bản."
+      ],
+      "Buổi 3": [
+        "Tìm hiểu về toán tử trong Javascript.",
+        "Giới thiệu về câu điều kiện.",
+        "Tìm hiểu về vòng lặp.",
+        "Thực hành với bài toán thực tế."
+      ],
+      "Buổi 4": [
+        "Tìm hiểu về danh sách và đối tượng trong Javascript.",
+        "CRUD với danh sách và đối tượng.",
+        "Tìm hiểu về DOM trong lập trình web."
+      ],
+      "Buổi 5": [
+        "Tìm hiểu về hàm và ứng dụng.",
+        "Áp dụng thu thập dữ liệu người dùng qua HTML Form.",
+        "Giới thiệu kho lưu trữ dữ liệu cục bộ LocalStorage.",
+        "Thực hành làm bài kiểm tra checkpoint 1."
+      ],
+      "Buổi 6": [
+        "Giới thiệu git/github và các thao tác cơ bản.",
+        "Tìm hiểu về github page & deploy dự án.",
+        "Giới thiệu dự án MindX Cinema và tính Real World của dự án.",
+        "Thực hành lập trình giao diện: Register/Login, Home page."
+      ],
+      "Buổi 7": [
+        "Tìm hiểu về API và các cú pháp đi kèm.",
+        "Thực hành lập trình: Page chi tiết phim, Search Page & News Page.",
+        "Movie controller – giới thiệu dự án MindX Cinema và tính Real World của dự án."
+      ],
+      "Buổi 8": [
+        "Soát lỗi người dùng nhập dữ liệu.",
+        "Responsive website.",
+        "Comment/rating phim.",
+        "Deploy dự án lên Internet."
+      ],
+      "Buổi 9": [
+        "Sơ lược về AI và ứng dụng trong lập trình.",
+        "Giới thiệu các AI phổ thông hỗ trợ web developer.",
+        "Lên ý tưởng dự án website cuối khóa.",
+        "Thực hành làm bài checkpoint 2."
+      ],
+      "Buổi 10": [
+        "Kiểm tra tiến độ dự án cá nhân.",
+        "Xây dựng dự án cuối khóa theo timeline đặt ra."
+      ],
+      "Buổi 11": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thực hành xây dựng giao diện phần mềm."
+      ],
+      "Buổi 12": [
+        "Kiểm tra tiến độ sản phẩm cuối khóa.",
+        "Thực hành xây dựng giao diện phần mềm."
+      ],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm web và deploy cơ bản.",
+        "Hoàn thiện và kiểm duyệt slide.",
+        "Thuyết trình thử."
+      ],
+      "Buổi 14": [
+        "Thuyết trình quá trình làm việc và trình bày kết quả.",
+        "Trả lời câu hỏi và tương tác với khán giả & giám khảo."
+      ]
     },
     "Internship": {
-      "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
-      "Buổi 2": "Lưu và tải điểm số.",
-      "Buổi 3": "Tạo bản đồ nhiều màn chơi.",
-      "Buổi 4": "Tạo AI đơn giản cho đối thủ.",
-      "Buổi 5": "Tạo game nhập vai cơ bản.",
-      "Buổi 6": "Sử dụng tin nhắn để điều khiển các phần.",
-      "Buổi 7": "Hiệu ứng hình ảnh nâng cao.",
-      "Buổi 8": "Tối ưu hóa trò chơi.",
-      "Buổi 9": "Tạo bài toán giáo dục trong game.",
-      "Buổi 10": "Thiết kế hệ thống nhiệm vụ.",
-      "Buổi 11": "Thêm âm thanh chuyên nghiệp.",
-      "Buổi 12": "Sử dụng cảm biến từ webcam (extension).",
-      "Buổi 13": "Tạo minigame phức tạp.",
-      "Buổi 14": "Thuyết trình sản phẩm hoàn chỉnh."
+      "Buổi 1": [
+        "Ôn tập kiến thức về HTML, CSS, Javascript",
+        "Ôn tập kiến thức về API và xử lý request cơ bản",
+        "Thực hành xây dựng dự án Pokemon Wiki với xử lý API",
+        "Giới thiệu chương trình NextGen và tiêu chí đánh giá sản phẩm cuối khóa"
+      ],
+      "Buổi 2": [
+        "Giới thiệu ES6 và ứng dụng",
+        "Tìm hiểu về Array method: map, filter, find",
+        "Thực hành với bài toán xử lý dữ liệu điểm trường học"
+      ],
+      "Buổi 3": [
+        "Ôn tập về client/server",
+        "Tìm hiểu về Firebase và kết nối với dự án website",
+        "Giới thiệu dự án Coffee Management"
+      ],
+      "Buổi 4": [
+        "Hoàn thiện giao diện login/Register cho Coffee Management",
+        "Giới thiệu các phương thức authentication trên Firebase",
+        "Thực hành lập trình tính năng soát lỗi và xác thực người dùng",
+        "Thiết kế nút đăng xuất và lập trình tính năng SignOut"
+      ],
+      "Buổi 5": [
+        "Giới thiệu về hệ cơ sở dữ liệu và tầm quan trọng trong lập trình",
+        "Tìm hiểu về Firebase Firestore và kết nối với dự án web",
+        "Thực hành lập trình CRUD order với Coffee Management",
+        "Deploy dự án Firebase",
+        "Thực hành làm bài kiểm tra checkpoint 1"
+      ],
+      "Buổi 6": [
+        "Sử dụng AI Microsoft Copilot để tìm kiếm các ý tưởng và mô tả dự án theo chủ đề",
+        "Giới thiệu mô hình quản lý dự án Waterfall kèm ứng dụng",
+        "Xây dựng bảng quản lý tiến độ dự án dựa trên mô hình Waterfall"
+      ],
+      "Buổi 7": [
+        "Sử dụng AI để tìm kiếm các template bố cục phù hợp với mô tả dự án",
+        "Sử dụng AI Color Hunt, Colour Combination để kiểm tra sự kết hợp màu sắc",
+        "Thực hành lập trình giao diện được liệt kê trong bảng quản lý tiến độ",
+        "Xây dựng tối thiểu 30% UI website"
+      ],
+      "Buổi 8": [
+        "Thực hành lập trình giao diện được liệt kê trong bảng quản lý tiến độ",
+        "Tìm hiểu về AI Canvas image generate giúp tạo hình ảnh với từ khóa đầu vào",
+        "Xây dựng tối thiểu 60% UI website"
+      ],
+      "Buổi 9": [
+        "Đánh giá tiến độ dự án",
+        "Hoàn thành tối thiểu 80% giao diện website theo mô tả trong bảng quản lý tiến độ",
+        "Hoàn thành xử lý chuyển trang"
+      ],
+      "Buổi 10": [
+        "Đóng gói giao diện website và tiến hành responsive",
+        "Kết nối dự án với Firebase cá nhân",
+        "Thiết lập kết nối xác thực người dùng và database",
+        "Thiết lập Google Analytics phân tích trải nghiệm khách hàng trong dự án",
+        "Thực hành lập trình tính năng xác thực người dùng",
+        "Hoàn thành tối thiểu 30% tính năng dự án web"
+      ],
+      "Buổi 11": [
+        "Hướng dẫn sử dụng AI Microsoft Copilot xây dựng các hàm xử lý tính năng trong dự án",
+        "Hướng dẫn tích hợp AI Chatbot và xử lý lỗi phát sinh (Phần 1)",
+        "Thực hành lập trình các tính năng phù hợp theo mô tả trong bảng quản lý tiến độ",
+        "Hoàn thành tối thiểu 60% tính năng dự án web"
+      ],
+      "Buổi 12": [
+        "Thực hành lập trình các tính năng phù hợp theo mô tả trong bảng quản lý tiến độ",
+        "Hoàn thành tối thiểu 90% tính năng dự án",
+        "Hướng dẫn tích hợp AI Chatbot và xử lý lỗi phát sinh (Phần 2)",
+        "Hướng dẫn deploy dự án Firebase lên Internet",
+        "Giới thiệu AI slide generator hỗ trợ xây dựng slide cuối khóa"
+      ],
+      "Buổi 13": [
+        "Nghiệm thu sản phẩm web và deploy cơ bản",
+        "Hoàn thiện và kiểm duyệt slide",
+        "Thuyết trình thử"
+      ],
+      "Buổi 14": [
+        "Thuyết trình quá trình làm việc và trình bày kết quả",
+        "Trả lời câu hỏi và tương tác với khán giả & giám khảo"
+      ]
     }
   },
 
   "Computer Science": {
     "Basic": {
-      "Buổi 1": "Giới thiệu tư duy máy tính và thuật toán.",
-      "Buổi 2": "Các khái niệm về dữ liệu.",
-      "Buổi 3": "Câu lệnh điều kiện.",
-      "Buổi 4": "Vòng lặp và thuật toán lặp.",
-      "Buổi 5": "Giải bài toán tìm số lớn nhất.",
-      "Buổi 6": "Tư duy nhánh và cây quyết định.",
-      "Buổi 7": "Tìm kiếm tuyến tính.",
-      "Buổi 8": "Thuật toán sắp xếp đơn giản.",
-      "Buổi 9": "Giới thiệu mảng.",
-      "Buổi 10": "Thuật toán tính tổng.",
-      "Buổi 11": "Đệ quy cơ bản.",
-      "Buổi 12": "Sơ đồ tư duy và flowchart.",
-      "Buổi 13": "Lập trình không cần máy tính (unplugged).",
-      "Buổi 14": "Ứng dụng CS trong đời sống."
+      "Buổi 1": [
+        "Cú pháp Python cơ bản: Biến, Toán tử, Kiểu dữ liệu cơ bản",
+        "Cấu trúc xử lý luồng: Biểu thức logic, câu điều kiện, vòng lặp, break/continue"
+      ],
+      "Buổi 2": [
+        "Kiểu dữ liệu: List",
+        "Hàm",
+        "Xử lý file",
+        "Thực hành: Tìm số trung bình (mean), trung vị (median), yếu vị (mode)"
+      ],
+      "Buổi 3": [
+        "Giới thiệu lập trình hướng đối tượng (OOP)",
+        "Giới thiệu 04 tính chất của lập trình hướng đối tượng",
+        "Tính Đóng gói (Encapsulation)",
+        "Tính Kế thừa"
+      ],
+      "Buổi 4": [
+        "Tính Đa hình (Polymorphism)",
+        "Tính Trừu tượng (Abstraction)"
+      ],
+      "Buổi 5": [
+        "Kiểm tra kiến thức: Cú pháp Python và lập trình OOP bằng Python",
+        "Các khái niệm thuật toán",
+        "Các tính chất đặc trưng của thuật toán",
+        "Phân tích tính hiệu quả của thuật toán",
+        "Đánh giá thuật toán bằng độ phức tạp"
+      ],
+      "Buổi 6": [
+        "Bài toán tìm kiếm",
+        "Tìm kiếm tuần tự (linear search)",
+        "Tìm kiếm nhị phân (binary search)"
+      ],
+      "Buổi 7": [
+        "Bài toán sắp xếp",
+        "Sắp xếp chèn (insertion sort)",
+        "Sắp xếp bong bóng (bubble sort)"
+      ],
+      "Buổi 8": [
+        "Thực hành giải quyết một số bài toán sử dụng thuật toán tìm kiếm - sắp xếp phù hợp"
+      ],
+      "Buổi 9": [
+        "Kiểm tra kiến thức đánh giá thuật toán, các thuật toán tìm kiếm và sắp xếp"
+      ],
+      "Buổi 10": [
+        "Cách hoạt động của cấu trúc dữ liệu Set (Tập hợp)",
+        "Cách hoạt động của cấu trúc dữ liệu Map (Ánh xạ)",
+        "Map trong Python: Dictionary",
+        "Ứng dụng của Set và Map",
+        "Game Bingo"
+      ],
+      "Buổi 11": [
+        "Cách hoạt động của cấu trúc dữ liệu Stack (Ngăn xếp)",
+        "Các thao tác cơ bản trên Stack",
+        "Ứng dụng của Stack trong lập trình và trong thực tế",
+        "Ứng dụng Giả lập Trình duyệt: Quản lý các thao tác truy cập trang web bằng Stack"
+      ],
+      "Buổi 12": [
+        "Cách hoạt động của cấu trúc dữ liệu Queue (Hàng đợi)",
+        "Các thao tác cơ bản trên Queue",
+        "Ứng dụng của Queue trong lập trình và trong thực tế",
+        "Ứng dụng Âm nhạc: Thêm bài hát, Chạy bài hát trong Hàng đợi, Bỏ qua bài hát"
+      ],
+      "Buổi 13": [
+        "Thực hành giải quyết một số bài toán sử dụng thuật toán và cấu trúc dữ liệu phù hợp"
+      ],
+      "Buổi 14": ["Kiểm tra kiến thức OOP, thuật toán, cấu trúc dữ liệu"]
     },
     "Advance": {
       "Buổi 1": "Tạo hệ thống menu cho trò chơi.",
