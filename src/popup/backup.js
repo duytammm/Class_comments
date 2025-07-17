@@ -1,8 +1,5 @@
 /* eslint-disable no-undef */
 import React, { useState, useEffect } from "react";
-import LessonSelector from "../component/LessonSelector";
-import EvaluationSelector from "../component/EvaluationSelector";
-import CommentGenerator from "../component/CommentGenerator";
 import "./../popup/popup.css";
 
 const options = ["Yếu", "Trung bình", "Khá", "Giỏi", "Xuất sắc"];
@@ -105,6 +102,7 @@ export default function Popup() {
     }
 
     setStatus("Đang tạo nhận xét...");
+
     const prompt = `Hãy viết một đoạn ngắn nhận xét dựa trên nội dung sau: "${customInput}".`;
     const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
 
@@ -147,32 +145,122 @@ export default function Popup() {
     );
   };
 
+  const courseOptions = subject
+    ? Object.keys(lessonsData?.[subject] || {})
+    : [];
+  const sessionOptions =
+    subject && course
+      ? Object.keys(lessonsData?.[subject]?.[course] || {})
+      : [];
+
   return (
     <div className="popup-container">
-      <LessonSelector
-        lessonsData={lessonsData}
-        subject={subject}
-        course={course}
-        session={session}
-        lessonContent={lessonContent}
-        setSubject={setSubject}
-        setCourse={setCourse}
-        setSession={setSession}
-        setLessonContent={setLessonContent}
-        setStatus={setStatus}
-        handleLoadLessonFromFile={handleLoadLessonFromFile}
+      <h3>Chọn nội dung bài học</h3>
+
+      <select
+        value={subject}
+        onChange={(e) => {
+          setSubject(e.target.value);
+          setCourse("");
+          setSession("");
+          setLessonContent([]);
+          setStatus("");
+        }}
+        className="popup-select"
+      >
+        <option value="">-- Chọn Môn học --</option>
+        {Object.keys(lessonsData).map((subj) => (
+          <option key={subj} value={subj}>
+            {subj}
+          </option>
+        ))}
+      </select>
+
+      <select
+        value={course}
+        onChange={(e) => {
+          setCourse(e.target.value);
+          setSession("");
+          setLessonContent([]);
+          setStatus("");
+        }}
+        disabled={!subject}
+        className="popup-select"
+      >
+        <option value="">-- Chọn Khóa học --</option>
+        {courseOptions.map((c) => (
+          <option key={c} value={c}>
+            {c}
+          </option>
+        ))}
+      </select>
+
+      <select
+        value={session}
+        onChange={(e) => {
+          setSession(e.target.value);
+          setLessonContent([]);
+          setStatus("");
+        }}
+        disabled={!course}
+        className="popup-select"
+      >
+        <option value="">-- Chọn Buổi học --</option>
+        {sessionOptions.map((s) => (
+          <option key={s} value={s}>
+            {s}
+          </option>
+        ))}
+      </select>
+
+      <button
+        onClick={handleLoadLessonFromFile}
+        className="popup-button lesson"
+      >
+        Lấy & Điền nội dung bài học
+      </button>
+
+      {lessonContent.length > 0 && (
+        <div className="popup-lesson-preview">
+          <ul style={{ paddingLeft: 20, margin: 0 }}>
+            {lessonContent.map((item, idx) => (
+              <li key={idx}>{item}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <h3 style={{ marginTop: 20 }}>Chọn mức đánh giá</h3>
+
+      <select
+        value={selected}
+        onChange={(e) => setSelected(e.target.value)}
+        className="popup-select"
+      >
+        {options.map((opt) => (
+          <option key={opt} value={opt}>
+            {opt}
+          </option>
+        ))}
+      </select>
+
+      <button onClick={handleRun} className="popup-button evaluate">
+        Tích nhận xét
+      </button>
+
+      <textarea
+        value={customInput}
+        onChange={(e) => setCustomInput(e.target.value)}
+        placeholder="Nhập nội dung để viết nhận xét, yêu cầu có tên học sinh, xưng thầy hoặc cô..."
+        className="popup-textarea"
       />
-      <EvaluationSelector
-        selected={selected}
-        setSelected={setSelected}
-        handleRun={handleRun}
-      />
-      <CommentGenerator
-        customInput={customInput}
-        setCustomInput={setCustomInput}
-        handleGenerate={handleGenerate}
-        comment={comment}
-      />
+
+      <button onClick={handleGenerate} className="popup-button generate">
+        Điền nhận xét
+      </button>
+
+      {comment && <div className="popup-comment-box">{comment}</div>}
+
       {status && <p className="popup-status">{status}</p>}
     </div>
   );
